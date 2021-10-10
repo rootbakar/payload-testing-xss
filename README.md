@@ -1,1 +1,1 @@
-# payload-testing-xss
+# payload-testing-xss ONLY FOR EDUCATION
